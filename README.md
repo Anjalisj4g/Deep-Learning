@@ -4,7 +4,8 @@
 
 You are required to model the progression of diabetes using the available independent variables. This model will help healthcare professionals understand how different factors influence the progression of diabetes and potentially aid in designing better treatment plans and preventive measures. The model will provide insights into the dynamics of diabetes progression in patients.
 
-Installed required libraries
+**Installed required libraries**
+
 import numpy as np
 
 import pandas as pd
@@ -25,7 +26,7 @@ from keras.optimizers import Adam
 
 from sklearn.datasets import load_diabetes
 
-Dataset is checked for any null values. There are no null values.
+**Dataset is checked for any null values. There are no null values.**
 
 **Visualization**
 
